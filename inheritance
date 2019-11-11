@@ -1,0 +1,38 @@
+<html>
+
+<head>
+
+<style>
+
+body {
+
+color: green;
+}
+
+h1,h2{
+
+border-bottom: 1px solid black;
+}
+
+p {
+
+font-size: 25px;
+font-family:helvetica
+}
+
+</style>
+
+</head>
+
+<body>
+<h1> The fish website </h1>
+
+<p> welcome to fish 
+website.Everthing you want to know about fish is in this 
+site </p>
+
+<h2> This is section on bass fish </h2>
+
+<p> bass fish live in lake </p>
+
+</body> 
