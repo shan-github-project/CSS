@@ -7,7 +7,7 @@
 body {
 color: green;
 font-family: Verdana,Arial,Geneva,Arial Black;
-font-weight: Light;
+font-weight: Bold;
 }
 
 
