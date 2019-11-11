@@ -18,7 +18,7 @@ border-bottom: 1px solid black;
 }
 
 
-.blue {
+P.blue {
 
 color: blue;
 font-size: 25px;
@@ -34,10 +34,6 @@ font-family: helvetica;
 
 }
 
-.underline {
-
-text-decoration: underline;
-}
 
 </style>
 
@@ -46,7 +42,7 @@ text-decoration: underline;
 <body>
 <h1> The fish website </h1>
 
-<p class="blue underline"> welcome to fish 
+<p class="blue"> welcome to fish 
 
 website.Everthing you want to know about fish is in this 
 
@@ -56,8 +52,4 @@ site </p>
 
 <p class="purple"> bass fish live in lake </p>
            
-        <blockquote class="blue underline">
-         This is an ident
-        </blockquote> 
-
-</body> 
+ </body> 
