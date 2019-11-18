@@ -1,0 +1,105 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" type="text/css" 
+
+href="Stylesheet.css">
+
+</head>
+
+<body>
+
+<h1> The fish website </h1>
+
+<p class="para1"> welcome to fish 
+
+website.Everthing you wnat to know about 
+
+fish is in this site </p>
+
+<img class="imagec" src="Barracuda_laban.jpg">
+
+<h2> This is section on bass fish </h2>
+
+<p class="para2"> bass fish live in lakes. 
+
+The word for fish in Latin is <i>pisces</i> 
+
+</p>
+
+<p class="para3"> Fish can communicate in 
+
+their underwater environments through the 
+
+use of acoustic communication. Acoustic 
+
+communication in fish involves the 
+
+transmission of acoustic signals from one 
+
+individual of a species to another. The 
+
+production of sounds as a means of 
+
+communication among fish is most often used 
+
+in the context of feeding, aggression or 
+
+courtship behaviour.[5] The sounds emitted 
+
+by fish can vary depending on the species 
+
+and stimulus involved. They can produce 
+
+either stridulatory sounds by moving 
+
+components of the skeletal system, or can 
+
+produce non-stridulatory sounds by 
+
+manipulating specialized organs such as the 
+
+swimbladder. </p>
+
+<p class="para4"> Fish can communicate in 
+
+their underwater environments through the 
+
+use of acoustic communication. Acoustic 
+
+communication in fish involves the 
+
+transmission of acoustic signals from one 
+
+individual of a species to another. The 
+
+production of sounds as a means of 
+
+communication among fish is most often used 
+
+in the context of feeding, aggression or 
+
+courtship behaviour.[5] The sounds emitted 
+
+by fish can vary depending on the species 
+
+and stimulus involved. They can produce 
+
+either stridulatory sounds by moving 
+
+components of the skeletal system, or can 
+
+produce non-stridulatory sounds by 
+
+manipulating specialized organs such as the 
+
+swimbladder. </p>
+
+
+
+</body>
+ 
+</html>
