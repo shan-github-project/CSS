@@ -24,8 +24,6 @@ h2 {
 
 text-decoration: underline;
 font-size: 1.2em;
-
-
 }
 
 p.para1 {
