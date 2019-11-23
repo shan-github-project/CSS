@@ -1,0 +1,121 @@
+body {
+
+color: green;
+font-family: Verdana,Arial,Geneva,Arial Black;
+font-weight: Normal;
+background-color: #ffcf79;
+font-size: 25px;
+}
+
+
+h1 {
+
+color: green;
+text-decoration: underline;
+font-size: 150%;
+text-align: center;
+}
+
+
+h2 {
+
+color: green;
+text-decoration: underline;
+font-size: 1.2em;
+text-align: center;
+}
+
+h3 {
+
+color: green;
+text-decoration: underline;
+}
+
+#para1homepage {
+
+color: blue;
+
+}
+
+
+p.paragraph {
+
+font-size: 15px;
+line-height: 1.5em;
+background-color: #e5e4d7;
+padding: 20px 20px 20Px 20px;
+border:black 2px solid;
+
+background-image: url(Cloud.jpg);
+border-radius:10px;
+border-bottom-style:dotted;
+border-bottom-color:red;
+}
+
+#para4homepage {
+font-size: 15px;
+line-height: 1.5em;
+background-color: #e5e4d7;
+padding: 20px
+border-color: #006400;
+border-width: thick;
+border-style: ridge;
+ 
+
+margin: 20px;
+margin-top: 50px;
+margin-left: 400px;
+padding-left:40px;
+
+}
+
+img.image {
+
+display: block;
+text-align:centre;
+margin-left: auto;
+margin-right: auto;
+padding: 3px;
+background-color: silver;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+}
+
+#divmain {
+color: black;
+
+}
+
+#divbass {
+color: black;
+
+}
+
+.highlight {
+
+background-color: #ffff00;
+}
+
+.divcontent {
+color: black;
+
+}
+
+a:link {
+
+color: blue;
+
+}
+
+a:visited {
+
+color: #8c8c9D;
+
+}
+
+a:hover {
+
+color: #F15A51;
+
+}
