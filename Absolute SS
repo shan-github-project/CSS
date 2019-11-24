@@ -1,0 +1,26 @@
+p {
+ 
+background-color: red;
+color:white;
+ 
+ 
+}
+ 
+ 
+div {
+ 
+background-color: black;
+color:white;
+ 
+position: absolute;
+
+
+//float:left; // LAST FOR COMAPARE
+//top: 75px;  // FIRST THIS WILL BE IN CODE
+//right: 150px;
+top:10px;  // SECOND 
+left:15px;
+width:250px;
+height: 250px;
+ 
+}
