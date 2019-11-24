@@ -1,0 +1,38 @@
+<!doctype html>
+ 
+<html>
+ 
+<head>
+ 
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+ 
+</head>
+ 
+<body>
+ 
+<h1> Header 1 element </h2>
+ 
+<div class="div1"> DIV 1 block element
+<p>  paragraph 1 </P>
+<p>  paragraph 2 </P>
+<p>  paragraph 3 </P>
+ 
+ </div>
+ 
+<div class="div2"> DIV 2 element
+<p>  paragraph 1 </P>
+<p>  paragraph 2 </P>
+<p>  paragraph 3 </P>
+ 
+ 
+ 
+ </div>
+ 
+<h2> The Header2 block element </h2>
+ 
+ 
+ 
+ 
+</body>
+ 
+</html>
