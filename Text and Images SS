@@ -1,0 +1,22 @@
+CSS code:
+
+body {
+background-color: #9c9f84;
+margin:0px;
+
+}
+
+#main {
+background-color: #e5e4d7;
+border-radius: 5px;
+padding:10px;
+margin:20px;
+
+}
+
+.image {
+float: left;
+margin-right: 30px;
+margin-bottom: 300px;
+}
+
