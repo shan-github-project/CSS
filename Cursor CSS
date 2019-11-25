@@ -32,6 +32,8 @@ a:hover {
 color: #000;
 background-color: #dadada;
 cursor: move;
+//cursor:crosshair;
+//cursor:none;
 }
  
 ul {
