@@ -3,4 +3,6 @@
 background-color: yellow;
 height: 50px;
 display: inline-block;
+//display: inline;
+//display: block;
 }
