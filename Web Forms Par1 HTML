@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+ 
+<html>
+ 
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheet.css">
+</head>
+ 
+<body>
+ 
+<h2>Fill out the form below and click “order now” to order</h2>
+ 
+<form action="" method="">
+ 
+<p>
+ 
+Name: <input type="text" name=""> </br> </br>  
+Address: <input type="text" name=""> </br> </br>
+Phone: <input type="tel" name=""> </br> </br>
+Email: <input type="email" name="">
+ 
+</p>
+ 
+</form>
+ 
+</body>
+ 
+</html>
