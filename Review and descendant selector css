@@ -1,0 +1,41 @@
+/* The Type Selectors - select by element by type ===================== */
+ 
+h1 {  
+ 
+color:blue;
+ 
+}
+ 
+/* The ID Selector - select element with # ============================ */
+ 
+#para1 {  
+ 
+color:green;
+ 
+}
+ 
+/* The Class Selector - select element with . ========================= */
+ 
+.para {  
+ 
+color:orange;
+ 
+}
+ 
+/* Combine Selectors - ================================================ */
+ 
+ 
+h2, h3, #para1  {  
+ 
+text-decoration: underline;
+ 
+ 
+}
+ 
+/* The Descendant Selector - select element inside another element ==== */
+ 
+div p {  
+ 
+font-style: italic;
+ 
+}
